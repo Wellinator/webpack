@@ -1,3 +1,3 @@
-# node-sdbtke
+# Discovering Webpack
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-sdbtke)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/webpack-studies)
